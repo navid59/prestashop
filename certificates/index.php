@@ -1,0 +1,1 @@
+die('Access denied');
